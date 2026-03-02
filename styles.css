@@ -136,7 +136,12 @@ h2 {
   list-style: none;
   padding: 0;
 }
-
+.hobbies-list li {
+  background-color: #ffffff;
+  padding: 10px;
+  margin-bottom: 4px;
+  border-left: 4px solid #2c3e50;
+}
 
 /* ---------------------------------------------------------------
    EXERCISE 10 — Highlighted List Item
